@@ -1,0 +1,81 @@
+body {
+background: #ccc
+}
+#header {
+width: 100%;   
+height: 60px;
+background:  #333;
+
+}
+
+#logo {
+
+    width: 40px;
+    height: 40px;
+    background: #ccc;
+    float: left;
+    margin: 10px;
+
+}
+
+#Topinfo {
+width: 100px;
+height: 40px;
+background:  #fff;
+float: left;
+margin: 10px;
+}
+
+#navBar {
+height: 40px;
+background: #fff;
+clear: both;
+
+
+}
+
+#navBar ul {
+margin: 0px;
+padding: 0px;
+list-style-type: none;
+
+}
+
+#navBar ul li {
+padding:  10px;
+float: left;
+
+
+}
+#navBar ul li a {
+font-size:  12px;
+float: left;
+padding: 0 0 0 20px;
+display: block;
+text-decoration: none;
+
+}
+
+#banner {
+background: #666;
+width: 100%;
+height: 225px;
+clear: both;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
